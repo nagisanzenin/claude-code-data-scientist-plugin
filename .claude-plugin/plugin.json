@@ -1,0 +1,10 @@
+{
+  "name": "data-scientist",
+  "description": "AI/ML/LLM optimization — prompt engineering, token optimization, A/B testing, scientific studies",
+  "version": "1.0.0",
+  "author": {
+    "name": "nagisanzenin"
+  },
+  "license": "MIT",
+  "keywords": ["data-science", "ai", "ml", "llm", "prompt-engineering", "optimization", "ab-testing"]
+}
